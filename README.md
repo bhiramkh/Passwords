@@ -5,8 +5,6 @@ A Python-based toolkit for generating secure passwords and analysing password st
 
 # Features
 
-To address this issue, this repository offers two key tools:
-
 - ***Password Generator (password_generator.py)***: A customisable function that generates a password based on user-specified criteria:
   - Length of password: User-specified password length
   - Character composition: Options to include uppercase letters, digits, and custom symbols.
