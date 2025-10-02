@@ -20,7 +20,7 @@ This generator uses shuffling to avoid predictable character patterns and featur
   | **Offline (GPU cluster)** | 1,000,000,000 | Coordinated attacks on leaked databases |
   | **Offline (nation state)** | 1,000,000,000,000 | Advanced persistent threats with massive resources |
 - ***Time Convertor Utility (time_converter())***: The tool converts computational time estimates into human-readable formats, automatically scaling from seconds to millennia to make security implications immediately understandable.
-  - Supported units: seconds → minutes → hours → days → months → years → decades → centuries → millennia
+  - ***Supported units***: seconds → minutes → hours → days → months → years → decades → centuries → millennia
 
 
 # Limitations
