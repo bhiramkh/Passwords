@@ -12,7 +12,7 @@ To address this issue, this repository offers two key tools:
 This generator uses shuffling to avoid predictable character patterns and features an interactive, user-friendly command-line interface.
 
 - ***Cracking Time Estimator (cracking_time.py)***: A function which estimates how long a hacker would take to crack a given password using common attack methods, such as brute-force.
-## Modelled scenarios
+<u>Modelled scenarios</u>
 
 
 
