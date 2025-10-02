@@ -21,8 +21,13 @@ This generator uses shuffling to avoid predictable character patterns and featur
   | **Offline (basic hardware)** | 1,000,000 | CPU-based hash cracking |
   | **Offline (GPU cluster)** | 1,000,000,000 | Coordinated attacks on leaked databases |
   | **Offline (nation state)** | 1,000,000,000,000 | Advanced persistent threats with massive resources |
-- *** Time Convertor Utility (time_converter())***: The tool converts computational time estimates into human-readable formats, automatically scaling from seconds to millennia to make security implications immediately understandable.
+- ***Time Convertor Utility (time_converter())***: The tool converts computational time estimates into human-readable formats, automatically scaling from seconds to millennia to make security implications immediately understandable.
   Supported units: seconds → minutes → hours → days → months → years → decades → centuries → millennia
+
+
+# Limitations
+- ***No breach database validation***: This tool does not cross-reference passwords against known compromised password databases or common password lists.
+- ***Brute-force focus only***: The analyser models only pure brute-force attacks and does not simulate dictionary or hybrid attack methods.
 
 
 # References
