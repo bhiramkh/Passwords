@@ -11,7 +11,8 @@ To address this issue, this repository offers two key tools:
   - Character composition: Options to include uppercase letters, digits, and custom symbols.
 This generator uses shuffling to avoid predictable character patterns and features an interactive, user-friendly command-line interface.
 
-- ***cracking_time()***: A function which estimates how long a hacker would take to crack a given password using common attack methods, such as brute-force.
+- ***Cracking Time Estimator (cracking_time.py)***: A function which estimates how long a hacker would take to crack a given password using common attack methods, such as brute-force.
+## Modelled scenarios
 
 
 
